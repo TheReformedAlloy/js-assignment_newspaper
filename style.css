@@ -1,0 +1,40 @@
+body {
+    background-color: cyan;
+}
+
+h1 {
+    font-style: italic;
+    color: blue;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h4 {
+    text-decoration: underline;
+}
+
+h3, h4{
+    margin-bottom: 0px;
+}
+
+.news {
+    color: hsl(0, 0%, 75%);
+}
+
+.comics {
+    color: #FF00FF;
+}
+
+.ads {
+    color: rgb(255, 131, 0);
+}
+
+#loc {
+    text-transform: uppercase;
+}
+
+#rateDiv {
+    font-family: monospace;
+}
